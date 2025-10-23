@@ -1,2 +1,2 @@
-let message: string = 'Hello typescript'
+let message: string = 'Hello WORLD HOW ARE YOU'
 console.log(message)
